@@ -1,0 +1,8 @@
+{
+  "name": "Hospital PWA",
+  "short_name": "Hospital",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "background_color": "#ffffff"
+}
